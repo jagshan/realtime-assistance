@@ -1,0 +1,7 @@
+{
+  "name": "Voice-to-LLM Assistant",
+  "description": "A web application that records your voice, transcribes it to text, and sends it to the Gemini model to get a response. You can select the model's temperature and edit the transcribed text before submission.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
